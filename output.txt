@@ -1,0 +1,5 @@
+writing to a file
+my name is khan but not very well.
+John
+ali
+wali
